@@ -35,8 +35,13 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+HALF ADDER
 
 ![half_adder_tt1](https://github.com/user-attachments/assets/6566d52f-c2cc-4fa5-90d1-8645a9edc733)
+
+
+HALF SUBTRACTOR
+
 ![half subtractor](https://github.com/user-attachments/assets/04e4ea5c-5f3c-4579-9eb0-f317196e1094)
 
 **Procedure**
@@ -75,12 +80,18 @@ endmodule
 
 **RTL Schematic**
 
-
+HALF ADDER
 ![Screenshot 2024-11-20 155503](https://github.com/user-attachments/assets/5cfd481f-8664-49de-aecf-4cc69f1ca977)
+
+HALF SUBTRACTOR
 ![Screenshot 2024-11-20 160016](https://github.com/user-attachments/assets/b8ce1e3f-106a-46b1-b182-cc30227a4b46)
 
 **Output/TIMING Waveform**
+
+HALF ADDER
 ![Screenshot 2024-11-20 155654](https://github.com/user-attachments/assets/4f0a4ecc-62d8-4c2b-8e90-b291698d5940)
+
+HALF SUBTRACTOR
 ![Screenshot 2024-11-20 160134](https://github.com/user-attachments/assets/76da6dd6-e373-4956-b355-0659a42b3597)
 
 **Result:**
